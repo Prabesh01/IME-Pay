@@ -1,0 +1,4 @@
+Apiuser=''
+Password=''
+Module=''
+MerchantCode=''
