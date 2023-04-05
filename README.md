@@ -24,9 +24,11 @@ _Sometimes due to various reason like server error or mid payment interruptions,
 
 # Why IME Pay?
 - IME Pay is pretty cool
+- Doesn't loot you on P2P transfers like fking esewa. <sub>part 1 on esewa rant [here](https://github.com/Prabesh01/khalti#why-khalti-why-not-esewa)</sub>
 - Which freaking wallet gives interest?
 - and the free virtual and Physical VISA Card ofcourse. The cards are even found working on some international websites.
 - Integration is FREE where other wallets are charging 20-25k.
+- Other wallets dont have multiple songs about them xD (not counting the songs produced by the company itself)
 
 # Cons :( 
 - Only few banks can be linked compared to other wallets. But its just a matter of time before most banks are available.
