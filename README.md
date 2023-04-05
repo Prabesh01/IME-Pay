@@ -7,9 +7,9 @@ _Disclaimer: Although I have made sure that the system is secure following recom
 
 Create a merchant account. As of now, you have to Contact them personally and ask for API Keys.
 
--    Fill the provided credentials in config.py
 -    git clone https://github.com/Prabesh01/IME-Pay.git
 -    cd IME-Pay
+-    Fill the provided credentials in config.py
 -    pip install -r requirements.txt
 -    python manage.py makemigrations
 -    python manage.py migrate
